@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">A developer trying to make some games from Turkey</h3>
 
-- 🌱 I’m currently learning **Game Engines and Game Development**
+- 🌱 I’m currently learning **Game Engines , Game Development and App developing in Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DogukanGunduz](https://github.com/DogukanGunduz)
 
